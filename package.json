@@ -1,6 +1,6 @@
 {
-  "homepage": "http://lirimh.github.io/web-example",
-  "name": "web-example",
+  "homepage": "http://lirimh.github.io/reactjs-project",
+  "name": "reactjs-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
