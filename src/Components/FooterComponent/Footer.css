@@ -1,0 +1,11 @@
+.footer{
+    height: 70px;
+    background-color:#212529;
+    color: #fff;
+}
+
+.footer h2{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 16px;
+}

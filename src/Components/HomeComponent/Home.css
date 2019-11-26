@@ -1,0 +1,56 @@
+.content{
+    height: 100%;
+}
+
+.content h2{
+    text-align: center;
+}
+
+.content > img{
+    height: 820px;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 350px!important;
+    color: #fff;
+    text-align: center;
+}
+
+.layer{
+    height: 180px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #212529;
+    width: 100%;
+}
+
+.layer button{
+    border-radius: 40px;
+    float: right;
+    margin-top: 5%;
+    /* margin-right: 310px; */
+    font-weight: 500;
+}
+
+.layer h2{
+    color: white;
+    font-size: 17px;
+    float: left;
+    margin-top: 76px;
+    /* margin-left: 260px; */
+}
+
+.jumbotron{
+    margin-top: 100px;
+}
+
+
+
+
+ 

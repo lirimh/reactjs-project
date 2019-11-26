@@ -1,0 +1,25 @@
+.contact{
+    height: 747px;
+}
+
+.contact h2{
+    text-align: center;
+}
+
+.contact-form{
+    margin-top: 130px;
+    margin-bottom: 30px;
+}
+
+.contact-info{
+    margin-top: 130px;
+}
+
+.contact-info p{
+    padding-left: 80px;
+}
+
+.contact-info ul{
+    margin-left:40px;
+}
+
